@@ -3,4 +3,4 @@
 ## Scraping language 90%ruby 10% python.
 
 # Contributors
-Please add new files, dont delete the recipes.json file because people might use it in their program.s
+Please add new files, dont delete the recipes.json file because people might use it in their program.
